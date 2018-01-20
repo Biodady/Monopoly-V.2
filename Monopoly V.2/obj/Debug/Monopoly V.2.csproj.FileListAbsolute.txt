@@ -1,0 +1,9 @@
+C:\Users\BioFrost\Desktop\AI Project\Monopoly V.2\Monopoly V.2\bin\Debug\Monopoly V.2.exe.config
+C:\Users\BioFrost\Desktop\AI Project\Monopoly V.2\Monopoly V.2\bin\Debug\Monopoly V.2.exe
+C:\Users\BioFrost\Desktop\AI Project\Monopoly V.2\Monopoly V.2\bin\Debug\Monopoly V.2.pdb
+C:\Users\BioFrost\Desktop\AI Project\Monopoly V.2\Monopoly V.2\obj\Debug\Monopoly V.2.csprojResolveAssemblyReference.cache
+C:\Users\BioFrost\Desktop\AI Project\Monopoly V.2\Monopoly V.2\obj\Debug\Monopoly_V._2.Form1.resources
+C:\Users\BioFrost\Desktop\AI Project\Monopoly V.2\Monopoly V.2\obj\Debug\Monopoly_V._2.Properties.Resources.resources
+C:\Users\BioFrost\Desktop\AI Project\Monopoly V.2\Monopoly V.2\obj\Debug\Monopoly V.2.csproj.GenerateResource.Cache
+C:\Users\BioFrost\Desktop\AI Project\Monopoly V.2\Monopoly V.2\obj\Debug\Monopoly V.2.exe
+C:\Users\BioFrost\Desktop\AI Project\Monopoly V.2\Monopoly V.2\obj\Debug\Monopoly V.2.pdb
